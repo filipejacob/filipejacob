@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on: -> https://opendatacenter.com.br/ 
 
-- 🌱 I’m currently learning: C# and Docker
+- 🌱 I’m currently learning: Kubernetes
 
 - 📫 How to reach me:
 
